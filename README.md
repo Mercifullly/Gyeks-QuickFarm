@@ -4,6 +4,7 @@
  customers, orders, and products to help make informed business decisions.
 
 Highlights
+
 Customer Insights: Distinct customers by area and segment (Premium, Regular, Inactive).  
 Order Analysis: Track total orders and top-performing products.  
 Payment Methods: Analyze most frequently used payment options.  
